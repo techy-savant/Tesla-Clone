@@ -2,12 +2,12 @@
 
 
 ## About
-This is the code repository for a Tesla  CLone  Projected
+This is the code repository for a Tesla  CLone  Project.
 <br>
 Built with `HTML5`  `CSS3` and `FullpageJS`
 
 
 
-![Tesla Clone](https://github.com/techy-savant/BRIDGEGAP-CLOTHING/assets/108519575/262e8b6e-ff03-4d04-a2ff-baebadd0d991)
+![tesla clone](https://github.com/techy-savant/Tesla-Clone/assets/108519575/e34f88f3-b572-4ccc-964b-9516a8dec3a0)
 
 ### Live Site: [tesla-clone](https://vals-teslaclone.netlify.app)
